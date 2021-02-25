@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T11:33:17.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="RS2TJ2tZleFF3RpWZIUx" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T11:33:31.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="wMQJZdmCMpvteGYJg0hv" version="14.4.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Bug fixing workflow">
     <mxGraphModel dx="1185" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
           <mxGeometry x="650" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_TshI3vmn3wsHt40VHCj-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="694" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="690" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TshI3vmn3wsHt40VHCj-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="610" y="80" width="30" height="20" as="geometry" />
