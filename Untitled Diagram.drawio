@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T11:23:50.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="pT-oThwWYga1wK30YXny" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T11:24:04.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="6il9EdQ9zpYYD6tayZrK" version="14.4.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Bug fixing workflow">
     <mxGraphModel dx="1185" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="_TshI3vmn3wsHt40VHCj-32" value="&lt;font style=&quot;font-size: 9px&quot; color=&quot;#ff3333&quot;&gt;Feedback&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="990" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TshI3vmn3wsHt40VHCj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC6600;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="_TshI3vmn3wsHt40VHCj-66" target="_TshI3vmn3wsHt40VHCj-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_TshI3vmn3wsHt40VHCj-66" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="760" y="55" width="80" height="50" as="geometry" />
