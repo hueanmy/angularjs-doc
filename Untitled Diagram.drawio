@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T11:32:00.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="gFTDB55awZlm0DCJ04xe" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T11:32:34.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="YIhnxmDQL5_QPUBXbN0W" version="14.4.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Bug fixing workflow">
     <mxGraphModel dx="1185" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
             <mxPoint x="1380" y="155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TshI3vmn3wsHt40VHCj-73" value="Merge request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#F0A30A;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="_TshI3vmn3wsHt40VHCj-73" value="Accept merge request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#F0A30A;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="1260" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_TshI3vmn3wsHt40VHCj-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
